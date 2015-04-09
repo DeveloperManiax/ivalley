@@ -4,5 +4,6 @@
     <string name="app_name">IValley</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="search">Search Images</string>
 
 </resources>
